@@ -1,0 +1,8 @@
+[submodule "podcast-server"]
+	path = podcast-server
+	url = git@github.com:duderamos/podcast-server.git
+	branch = master
+[submodule "podcast-client"]
+	path = podcast-client
+	url = git@github.com:duderamos/podcast-client.git
+	branch = master
